@@ -20,7 +20,7 @@ for (let i = word.length -1; i >= 0; i--) {
     
 }
 
-console.log("Leggo da da destra verso sinistra =", wordRL)
+console.log("Leggo da destra verso sinistra =", wordRL)
 
 if(wordLR == wordRL){
     alert(`Ciao ${userName}, la parola " ${word} " è palindroma`)
